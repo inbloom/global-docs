@@ -1,4 +1,4 @@
-global_docs
+global-docs
 ===========
 
 Global Documentation repository
